@@ -2,11 +2,48 @@
 
 A simple, interactive 2D solar system simulation built with C++ and OpenGL/GLUT. This project was created as a group submission for a Computer Graphics course.
 
-![Screenshot of the Solar System](screenshots/s-1.png)
+---
 
 ## 📜 Description
 
 This project provides a top-down 2D visualization of our solar system. It is an educational and interactive tool that allows users to explore the planets, control the flow of time, and navigate the scene with a flexible camera. The goal was to apply fundamental computer graphics concepts to create a dynamic and engaging simulation.
+
+---
+
+## 📸 Screenshots of the Project
+
+**Scenario 1: Full view of the solar system**
+![Full view of the solar system](screenshots/s-1.png)
+
+**Scenario 2: Zoomed out view with stars**
+![Zoomed out view with stars](screenshots/s-2.png)
+
+**Scenario 3: Zoomed-in view of Sun**
+![Zoomed-in view of Sun](screenshots/s-3.png)
+
+**Scenario 4: Zoomed-in view of Mercury**
+![Zoomed-in view of Mercury](screenshots/s-4.png)
+
+**Scenario 5: Zoomed-in view of Venus**
+![Zoomed-in view of Venus](screenshots/s-5.png)
+
+**Scenario 6: Zoomed-in view of Earth with orbiting Moon**
+![Zoomed-in view of Earth with orbiting Moon](screenshots/s-6.png)
+
+**Scenario 7: Zoomed-in view of Mars**
+![Zoomed-in view of Mars](screenshots/s-7.png)
+
+**Scenario 8: Zoomed-in view of Jupiter**
+![Zoomed-in view of Jupiter](screenshots/s-8.png)
+
+**Scenario 9: Zoomed-in view of Saturn**
+![Zoomed-in view of Saturn](screenshots/s-9.png)
+
+**Scenario 10: Zoomed-in view of Uranus**
+![Zoomed-in view of Uranus](screenshots/s-10.png)
+
+**Scenario 11: Zoomed-in view of Neptune**
+![Zoomed-in view of Neptune](screenshots/s-11.png)
 
 ---
 
@@ -54,7 +91,7 @@ You must also have the **GLUT** library set up.
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
+    git clone [https://github.com/fuadhasandipro/InteractiveSolarSystem.git](https://github.com/fuadhasandipro/InteractiveSolarSystem.git)
     ```
 2.  **Open the Project:**
     Navigate to the project directory and open the `InteractiveSolarSystem.cbp` file with Code::Blocks.
@@ -65,19 +102,19 @@ You must also have the **GLUT** library set up.
 
 ## ⌨️ How to Use: Controls
 
-| Key(s)              | Action                                        |
-| ------------------- | --------------------------------------------- |
-| `W` / `S` / Mouse Wheel | Zoom In / Zoom Out                            |
-| `A` / `D` / `←` / `→` | Pan Camera Left / Right                       |
-| `Q` / `E`           | Pan Camera Down / Up (Vertical Pan)           |
-| Left Mouse Drag     | Pan Camera Freely                             |
-| `↑` / `↓`           | Increase / Decrease Simulation Speed          |
-| `Spacebar`          | Pause / Resume Simulation                     |
-| `0` - `8`           | Focus Camera on Sun (0) or Planets (1-8)      |
-| `O`                 | Toggle Visibility of Planetary Orbits         |
-| `N`                 | Toggle Visibility of the Starfield Background |
-| `R`                 | Reset View and Simulation                     |
-| `ESC`               | Exit the Application                          |
+| Key(s) | Action |
+| --- | --- |
+| `W` / `S` / Mouse Wheel | Zoom In / Zoom Out |
+| `A` / `D` / `←` / `→` | Pan Camera Left / Right |
+| `Q` / `E` | Pan Camera Down / Up (Vertical Pan) |
+| Left Mouse Drag | Pan Camera Freely |
+| `↑` / `↓` | Increase / Decrease Simulation Speed |
+| `Spacebar` | Pause / Resume Simulation |
+| `0` - `8` | Focus Camera on Sun (0) or Planets (1-8) |
+| `O` | Toggle Visibility of Planetary Orbits |
+| `N` | Toggle Visibility of the Starfield Background |
+| `R` | Reset View and Simulation |
+| `ESC` | Exit the Application |
 
 ---
 

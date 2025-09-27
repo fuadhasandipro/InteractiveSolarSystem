@@ -2,7 +2,7 @@
 
 A simple, interactive 2D solar system simulation built with C++ and OpenGL/GLUT. This project was created as a group submission for a Computer Graphics course.
 
-![Screenshot of the Solar System](screenshots/solar-system-full.png)
+![Screenshot of the Solar System](screenshots/s-1.png)
 
 ## 📜 Description
 

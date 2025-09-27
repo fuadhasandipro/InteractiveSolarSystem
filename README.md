@@ -98,7 +98,7 @@ The project is organized into several logical components:
 
 This project was a collaborative effort by:
 
-* **Group Member 1**
-* **Group Member 2**
-* **Group Member 3**
-* **Group Member 4**
+* FUAD HASAN - 23-51947-2
+* MD MAHRAB HASAN CHOWDHURY - 21-45877-3
+* ANIS MAHMUD RATUL - 23-51922-2
+* SHAFAYAT KHAN SHAAN - 23-52134-2
